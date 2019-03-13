@@ -104,6 +104,9 @@ func() {
 
 # Part II - Data Science
 
+
+## Your task
+
 The source file for this exercise can be found there:
 https://storage.googleapis.com/lx-data-public/predictions_and_labels.json.zip
 
@@ -112,8 +115,16 @@ Given a multiclass multilabel classifier, we consider the prediction probabiliti
 -	What prediction threshold should we set to have the best true positive rate (ie. recall) at a maximum false positive rate of 20%?
 -	What prediction threshold should we set to have the best precision at a minimum recall of 80%?
 Please include plots (eg. ROC curve, Precision-Recall curves...) to illustrate your answers. Also, feel free to state any hypothesis you may want to use.
+
+
+## Notes
+
 You can use basic numerical libraries (ie. “numpy”, “scipy”) but not Machine Learning packages (eg. “sklearn”). You may use plotting libraries like `matplotlib` to render your graphs.
 
-Colab is Google Suite’s hosted version of Jupyter Notebook. Please provide a Colab link that shows your work on the above questions.
+
+## Expected output
+
+Colab is Google Suite’s hosted version of Jupyter Notebook. 
+Please provide a Colab link that shows your work on the above questions.
 
 Good luck :)
