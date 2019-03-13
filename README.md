@@ -1,4 +1,4 @@
-# Senior Data Engineer Position at Sephora SEA
+# Head of Data Position at Sephora SEA
 
 You can write your code in the language of your choice. But we have preferences for the languages of our stack:
 
