@@ -1,5 +1,8 @@
 # Head of Data Position at Sephora SEA
 
+
+# Part I - Data Engineering
+
 You can write your code in the language of your choice. But we have preferences for the languages of our stack:
 
 - Go (Highly recommended)
@@ -98,6 +101,8 @@ func() {
 - Credentials to access the datasets of your BQ instance for the data@luxola.com user (can be setup here https://console.cloud.google.com/iam-admin/iam. The BigQuery Data Viewer permission is enough)
 - URL endpoint of your API
 
+
+# Part II - Data Science
 
 
 Good luck :)
